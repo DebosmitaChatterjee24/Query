@@ -1,1 +1,1 @@
-This code snippet is a private property of mine (Abhishek). It is developed confidentially to be used by Chinu and me. It is restricted for public use.
+This code snippet is a private property of Chinu & Abhishek. It is developed confidentially to be used by them. It is restricted for public use. Trespassers not allowed.
